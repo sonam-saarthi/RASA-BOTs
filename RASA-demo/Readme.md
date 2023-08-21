@@ -13,8 +13,23 @@ Now, chat bot is ready to chat.
 Command to stop the chatbot...
     `$ /stop`
 
-Command to start the chatbot...
+
+
+Command to train the chatbot...
+    `$ rasa train`
+
+
+Command to talk to most recent model of the system/chatbot...
     `$ rasa shell`
+
+
+Command to take help for the chatbot...
+    `$ rasa -h`
+
+    & to debug the model we have `--debug` flag.
+
+    `$ rasa --debug`
+
 
 
 This is a demo of rasa-chatbot.
