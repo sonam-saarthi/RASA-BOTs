@@ -26,9 +26,9 @@ Command to talk to most recent model of the system/chatbot...
 Command to take help for the chatbot...
     `$ rasa -h`
 
-    & to debug the model we have `--debug` flag.
+& to debug the model we have `--debug` flag.
 
-    `$ rasa --debug`
+Command: `$ rasa --debug`
 
 
 
